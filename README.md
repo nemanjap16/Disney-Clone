@@ -1,8 +1,12 @@
+# Disney+ Clone
+
+### This app is created in demonstration purpose. In this app I'm using react-router, react hooks, styled component, react carousel, react-redux and firebase. Firebase provides content and authentication.
+
+![](disneybackground.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-![](disneybackground.png)
 
 ## Available Scripts
 
