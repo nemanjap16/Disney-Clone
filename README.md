@@ -1,6 +1,6 @@
 # Disney+ Clone
 
-### This app is created in demonstration purpose. In this app I'm using react-router, react hooks, styled component, react carousel, react-redux and firebase. Firebase provides content and authentication.
+### This app is created in demonstration purpose. In this app I'm using react-router, react hooks, styled components, react carousel, react-redux and firebase. Firebase provides content and authentication.
 
 ![](disneybackground.png)
 
